@@ -1,6 +1,6 @@
 # how to insert multiple rows in excel
 
-[![how to insert multiple rows in excel](gett-stateed.png)](https://github.com/windowsreport/how.to.insert.multiple.rows.in.excel/)
+[![how to insert multiple rows in excel](gett-stateed.png)](https://icncomputer.com/how-to-insert-multiple-rows-in-excel/)
 
 Microsoft Excel is a widely used spreadsheet software, developed by Microsoft. To some, Excel is an easy program to use, while many first-timers struggle with the easiest tasks.
 
